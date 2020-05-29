@@ -1,4 +1,8 @@
 {
     "url": "https://raw.githubusercontent.com/rahul-gj/chl/master/run_during_convert.py",
-    "filename": "run_during_convert.py"
+    "filename": "run_during_convert.py",
+    "git_path": "git-win/git",
+    "py_path": "python-3.8.2/python",
+    "zydbh_ipr_path": "//192.168.32.38/global ip/",
+    "zydbh_rnd_path": "//192.168.32.38/r&d/"
 }
